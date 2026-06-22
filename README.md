@@ -22,7 +22,7 @@
 
 ## Featured Project
 
-**[Flick](https://github.com/nish-codes/backend_project)** — Full-stack video platform (YouTube-clone)  
+**[Flick](https://github.com/nish-codes/flick)** — Full-stack video platform (YouTube-clone)  
 Node.js · Express · MongoDB · React 19 · Vite · Cloudinary · JWT auth with refresh token rotation
 
 ---
