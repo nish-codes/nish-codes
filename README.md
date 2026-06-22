@@ -20,6 +20,13 @@
 
 ---
 
+## Featured Project
+
+**[Flick](https://github.com/nish-codes/backend_project)** — Full-stack video platform (YouTube-clone)  
+Node.js · Express · MongoDB · React 19 · Vite · Cloudinary · JWT auth with refresh token rotation
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -95,6 +102,6 @@
 
 ## Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-nishnath24106%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishnath24106@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nishanth24106%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishanth24106@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nish--codes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nish-codes)
 [![LeetCode](https://img.shields.io/badge/LeetCode-nishanth24106-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishanth24106/)
