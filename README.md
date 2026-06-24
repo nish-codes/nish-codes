@@ -20,7 +20,10 @@
 
 ---
 
-## Featured Project
+## Featured Projects
+
+**[cortex](https://github.com/nish-codes/cortex)** — Personal knowledge engine with RAG  
+Upload documents or crawl any URL, then search with BM25 or ask questions answered from your own data. Custom BM25 implementation with Porter stemming · chunked inverted index in MongoDB · Groq LLM (Llama 3.1) via streaming SSE · no LangChain, no retrieval framework
 
 **[Flick](https://github.com/nish-codes/flick)** — Full-stack video platform (YouTube-clone)  
 Node.js · Express · MongoDB · React 19 · Vite · Cloudinary · JWT auth with refresh token rotation
